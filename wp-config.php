@@ -92,8 +92,3 @@ if ( ! defined( 'ABSPATH' ) ) {
 require_once ABSPATH . 'wp-settings.php';
 
 
-
-
-define("COOKIE_DOMAIN", "http://testwordpress232.herokuapp.com");
-define("WP_CONTENT_URL", "http://testwordpress232.herokuapp.com/wp-content");
-define("WP_PLUGIN_URL", "http://testwordpress232.herokuapp.com//plugins");
